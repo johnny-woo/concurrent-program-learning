@@ -1,1 +1,2 @@
-# logstash-input-wuwqplugintest
+# Concurrent-program
+工作之余，为丰富自己在多线程编程方面的知识点，进行的一系列学习，现在整理成一些小demo，希望能够对大家有所帮助。
